@@ -1,4 +1,5 @@
-#includ <stdio.h>
+#includ <math.h>
+#includ <studio.h>
 
 int input1;
 int input2;
@@ -7,5 +8,3 @@ for(int i=0;i<=10;i++)
 {
 	input=input+i;
 }
-
-input2=input1;
