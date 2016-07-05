@@ -1,5 +1,5 @@
-#include <math.h>
-#includ <stdio.h>
+#includ <math.h>
+#includ <studio.h>
 
 int input1;
 int input2;
