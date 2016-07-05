@@ -1,1 +1,4 @@
-123
+#includ <stdio.h>
+
+int input1;
+int input2;
